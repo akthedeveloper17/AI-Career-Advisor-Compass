@@ -77,3 +77,12 @@ Accessible for students, job-seekers, and professionals.
 🪄 Experience
 
 🪄 Projects
+
+# ⎋ Steps To Run this Project
+
+```  
+npm install
+
+npm dev run
+
+```
